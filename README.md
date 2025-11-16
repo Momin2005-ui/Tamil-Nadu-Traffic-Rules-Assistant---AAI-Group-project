@@ -3,8 +3,8 @@
 An AI-powered assistant built using Retrieval-Augmented Generation (RAG) that provides context-aware answers about Tamil Nadu traffic rules, penalties, and driver rights. It combines semantic search with LLMs for accurate, explainable, and trustworthy responses.
 
 ---
-![Alt text]([https://github.com/madhans476/repo-image/blob/main/traffic_rules_assistant/Screenshot%202025-06-13%20163336.png](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot_15-11-2025_233625_docs.google.com.jpeg))
-![Alt text](https://github.com/madhans476/repo-image/blob/main/traffic_rules_assistant/Screenshot%202025-06-13%20163402.png)
+![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot_15-11-2025_233625_docs.google.com.jpeg)
+![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot%202025-11-15%20233802.png)
 
 ## Repo Structure
 ```plaintext
