@@ -235,7 +235,7 @@ Pull requests welcome!
 
 ## Changelog
 
-### v1.0.0 (June 2025)
+### v1.0.0 (November 2025)
 
 * Initial public release
 * Added full pipeline: Extraction, Chunking, Embedding, Retrieval, Generation
@@ -243,19 +243,3 @@ Pull requests welcome!
 * Groq + LangChain integration
 
 ---
-
-## Citation
-
-If you use this in academic work:
-
-```
-@misc{trafficassistant2025,
-  title={Tamil Nadu Traffic Rules Assistant using RAG},
-  author={Madhan S},
-  year={2025},
-  howpublished={\url{https://github.com/madhans476/traffic_rules_assistant}}
-}
-```
-
----
-
