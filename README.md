@@ -2,9 +2,44 @@
 
 An AI-powered assistant built using Retrieval-Augmented Generation (RAG) that provides context-aware answers about Tamil Nadu traffic rules, penalties, and driver rights. It combines semantic search with LLMs for accurate, explainable, and trustworthy responses.
 
+## Group Members
+
+| Name                           | Email                       |
+|--------------------------------|-----------------------------|
+| Mohana Krishnan                | 23bds035@iiitdwd.ac.in      |
+| Momin M                        | 23bds036@iiitdwd.ac.in      |
+| Prasann Kote                   | 23bds045@iiitdwd.ac.in      |
+| Preetham P                     | 23bds046@iiitdwd.ac.in      |
+| Prem Sagar                     | 23bds065@iiitdwd.ac.in      |
+
+
+## Overview
+
+This project extracts legal content from a government-issued traffic PDF and makes it queryable via natural language questions using a custom-built RAG pipeline. It uses:
+
+* `sentence-transformers` for generating document embeddings
+* `FAISS` for fast semantic retrieval
+* `LangChain` with `Groq` LLM backend for fast and accurate response generation
+* `FastAPI` to expose the system as an API
+
+The assistant is designed to provide concise, legally grounded, and verifiable answers.
+
+---
+
+## Target Audience
+
+* Citizens of Tamil Nadu
+* Driving school instructors and trainees
+* Traffic law educators
+* AI/ML enthusiasts learning about RAG pipelines
+
+---
+
 ---
 ![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot_15-11-2025_233625_docs.google.com.jpeg)
 ![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot%202025-11-15%20233802.png)
+![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot%202025-11-15%20233802.png)
+
 
 ## Repo Structure
 ```plaintext
@@ -33,28 +68,6 @@ traffic_rules_assistant/
 ├── requirements.txt
 └── pyproject.toml
 ```
-
-## Overview
-
-This project extracts legal content from a government-issued traffic PDF and makes it queryable via natural language questions using a custom-built RAG pipeline. It uses:
-
-* `sentence-transformers` for generating document embeddings
-* `FAISS` for fast semantic retrieval
-* `LangChain` with `Groq` LLM backend for fast and accurate response generation
-* `FastAPI` to expose the system as an API
-
-The assistant is designed to provide concise, legally grounded, and verifiable answers.
-
----
-
-## Target Audience
-
-* Citizens of Tamil Nadu
-* Driving school instructors and trainees
-* Traffic law educators
-* AI/ML enthusiasts learning about RAG pipelines
-
----
 
 ## Prerequisites
 
@@ -238,9 +251,3 @@ If you use this in academic work:
 
 ---
 
-## Contact
-
-**Maintainer:** Madhan S
-- **Email:** [mail](mailto:22bds036@iiitdwd.ac.in)
-- **GitHub:** [@madhans476](https://github.com/madhans476)
-- **LinkedIn** [@madhans17](https://www.linkedin.com/in/madhan-s17/)
