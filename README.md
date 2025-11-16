@@ -43,6 +43,9 @@ The assistant is designed to provide concise, legally grounded, and verifiable a
 ### Project Demo Video 2
 [![Watch the video](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot%202025-11-16%20212531.png)](https://drive.google.com/file/d/1cZv2iexbnEI91Tb0dqirjipf5UtVv8P_/view)
 
+## Rag Architecture
+![Screenshot 2025-04-06 233208 1](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/rag_architecture.png)
+
 ## Repo Structure
 ```plaintext
 traffic_rules_assistant/
