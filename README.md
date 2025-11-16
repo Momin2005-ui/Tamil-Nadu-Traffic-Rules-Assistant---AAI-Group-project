@@ -39,7 +39,11 @@ The assistant is designed to provide concise, legally grounded, and verifiable a
 ![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot_15-11-2025_233625_docs.google.com.jpeg)
 ![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot%202025-11-15%20233802.png)
 ![Alt text](https://github.com/Momin2005-ui/Tamil-Nadu-Traffic-Rules-Assistant---AAI-Group-project/blob/main/Screenshot%202025-11-15%20233802.png)
+### Project Demo Video 1
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://drive.google.com/file/d/1Vg5eeaam3KHCpOX7zrkDbkNp_MnZIkWN/view)
 
+### Project Demo Video 2
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://drive.google.com/file/d/1cZv2iexbnEI91Tb0dqirjipf5UtVv8P_/view)
 
 ## Repo Structure
 ```plaintext
